@@ -2,6 +2,7 @@
 Independent learning schedule
 
 | [Automate the Boring Stuff](https://automatetheboringstuff.com/) | Use Python programming to save time |
+| [Automation for Business] TBC
 | [Clean Code](#clean-code) | Write better code - basic dev skills |
 | [Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/) | |
 | [The Pragmatic Programmer](#the-pragmatic-programmer) | Write better code - basic dev skills |

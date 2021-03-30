@@ -17,3 +17,149 @@ Independent learning schedule
 | [Blockchain 101](https://101blockchains.com/career-in-blockchain/) |
 | Machine Learning |
 | Sentiment Analysis |
+
+# Learning Outline
+
+## Outline
+
+Consider pluralsight, also the awesome resources on github (google awesome github [insert text here]; many languages, concepts and frameworks have curated lists of resources such as [this link, for algorithms](https://github.com/tayllan/awesome-algorithms)).
+
+Consider further udemy courses - UML
+
+## Courses
+
+### Testing Ruby With RSpec
+
+- [x]  Part 1
+- [x]  Part 2
+- [x]  Part 3
+- [x]  Part 4
+- [x]  Part 5
+
+### HTML and CSS for Beginners
+
+- [x]  Part 1
+- [ ]  Part 2
+- [ ]  Part 3
+- [ ]  Part 4
+- [ ]  Part 5
+- [ ]  Part 6
+- [ ]  Part 7
+
+### Clean Code
+
+- [ ]  Chapter 1
+- [ ]  Chapter 2
+- [ ]  Chapter 3
+- [ ]  Chapter 4
+- [ ]  Chapter 5
+- [ ]  Chapter 6
+- [ ]  Chapter 7
+- [ ]  Chapter 8
+- [ ]  Chapter 9
+- [ ]  Chapter 10
+- [ ]  Chapter 11
+- [ ]  Chapter 12
+- [ ]  Chapter 13
+- [ ]  Chapter 14
+- [ ]  Chapter 15
+- [ ]  Chapter 16
+- [ ]  Chapter 17
+
+### Practical Object-Oriented Design in Ruby
+
+- [ ]  Chapter 1
+- [ ]  Chapter 2
+- [ ]  Chapter 3
+- [ ]  Chapter 4
+- [ ]  Chapter 5
+- [ ]  Chapter 6
+- [ ]  Chapter 7
+- [ ]  Chapter 8
+- [ ]  Chapter 9
+
+### Python Bootcamp
+
+
+
+### The Pragmatic Programmer
+
+- [ ]  Chapter 1
+- [ ]  Chapter 2
+- [ ]  Chapter 3
+- [ ]  Chapter 4
+- [ ]  Chapter 5
+- [ ]  Chapter 6
+- [ ]  Chapter 7
+- [ ]  Chapter 8
+- [ ]  Chapter 9
+
+### The Elements of Computing Systems
+
+- [ ]  Chapter 1
+- [ ]  Chapter 2
+- [ ]  Chapter 3
+- [ ]  Chapter 4
+- [ ]  Chapter 5
+- [ ]  Chapter 6
+- [ ]  Chapter 7
+- [ ]  Chapter 8
+- [ ]  Chapter 9
+- [ ]  Chapter 10
+- [ ]  Chapter 11
+
+### Effective Testing with RSpec
+
+- [ ]  Chapter 1
+- [ ]  Chapter 2
+- [ ]  Chapter 3
+- [ ]  Chapter 4
+- [ ]  Chapter 5
+- [ ]  Chapter 6
+- [ ]  Chapter 7
+- [ ]  Chapter 8
+- [ ]  Chapter 9
+- [ ]  Chapter 10
+- [ ]  Chapter 11
+- [ ]  Chapter 12
+- [ ]  Chapter 13
+- [ ]  Chapter 14
+- [ ]  Chapter 15
+
+### Introduction to Algorithms
+
+- [ ]  Chapter 1
+- [ ]  Chapter 2
+- [ ]  Chapter 3
+- [ ]  Chapter 4
+- [ ]  Chapter 5
+- [ ]  Chapter 6
+- [ ]  Chapter 7
+- [ ]  Chapter 8
+- [ ]  Chapter 9
+- [ ]  Chapter 10
+- [ ]  Chapter 11
+- [ ]  Chapter 12
+- [ ]  Chapter 13
+- [ ]  Chapter 14
+- [ ]  Chapter 15
+- [ ]  Chapter 16
+- [ ]  Chapter 17
+- [ ]  Chapter 18
+- [ ]  Chapter 19
+- [ ]  Chapter 20
+- [ ]  Chapter 21
+- [ ]  Chapter 22
+- [ ]  Chapter 23
+- [ ]  Chapter 24
+- [ ]  Chapter 25
+- [ ]  Chapter 26
+- [ ]  Chapter 27
+- [ ]  Chapter 28
+- [ ]  Chapter 29
+- [ ]  Chapter 30
+- [ ]  Chapter 31
+- [ ]  Chapter 32
+- [ ]  Chapter 33
+- [ ]  Chapter 34
+- [ ]  Chapter 35

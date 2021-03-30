@@ -12,6 +12,8 @@ Independent learning schedule
 | [Free Code Camp] | 10 subjects - follow the recommended order. Gain a wide understanding of many subjects including ML |
 
 | NFTs |
-| Blockchain |
+| [Ethereum & Blockchain](https://ethereum.org/en/developers/learning-tools/) |
+| [Blockchain](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46/) |
+| [Blockchain 101](https://101blockchains.com/career-in-blockchain/) |
 | Machine Learning |
 | Sentiment Analysis |

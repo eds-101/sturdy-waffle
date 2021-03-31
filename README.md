@@ -1,6 +1,13 @@
 # sturdy-waffle
 Independent learning schedule
 
+
+# Improve my effectiveness in BD / timesaving
+| [Mining the Social Web](PDF Book) | Acquire, analyze and summarize data from the social web |
+| [Selenium for Bots]() | |
+| [LinkedIn web scraping]() | |
+| [Chatbots]() | |
+
 | [Automate the Boring Stuff](https://automatetheboringstuff.com/) | Use Python programming to save time |
 | [Automation for Business] TBC
 | [Clean Code](#clean-code) | Write better code - basic dev skills |

@@ -5,7 +5,7 @@ Independent learning schedule
 # Improve my effectiveness in BD / timesaving
 | [Mining the Social Web](PDF Book) | Acquire, analyze and summarize data from the social web |
 | [Build a Python web scraper](https://towardsdatascience.com/how-to-build-a-web-scraper-or-bot-in-python-using-selenium-2815f20023f7) ||
-| [Selenium for Bots]() | |
+| [Selenium for Bots](https://www.selenium.dev/documentation/en/grid/) |Automate web actions & make bots|
 | [LinkedIn web scraping]() | |
 | [Chatbots]() | |
 
